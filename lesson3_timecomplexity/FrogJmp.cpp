@@ -76,7 +76,7 @@ int solution(int X, int Y, int D)
     return nRet;
 }
 
-int main() 
+int main()
 {
     std::cout << solution(10, 85, 30) << std::endl;
     return 0;
