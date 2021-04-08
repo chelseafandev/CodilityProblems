@@ -52,3 +52,4 @@ Codility 문제 풀이
 ## Lesson10 Prime and composite numbers
 - [Painless] CountFactors
 - [Respectable] Flags --> 정확도100%까지는 구했으나, TIMEOUT 해결하지 못하여 솔루션참고함
+- [Painless] MinPerimeterRectangle
